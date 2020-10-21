@@ -1,0 +1,8 @@
+/* 表单输入框样式 */
+.login-page .el-input__inner{
+    width: 250px !important;
+ }
+ /*用户名颜色*/
+ .loginContainer .demo-loginForm .el-form-item__label{
+    color: white;
+  }
